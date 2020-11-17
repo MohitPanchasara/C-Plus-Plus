@@ -1,5 +1,6 @@
 #include <iostream>
-
+//welcome to program
+//happy coding
 // calculates the probability of the events A or B for independent events
 
 double addition_rule_independent(double A, double B) {
